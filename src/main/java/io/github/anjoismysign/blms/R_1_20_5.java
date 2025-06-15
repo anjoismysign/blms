@@ -1,4 +1,4 @@
-package us.mytheria.blbi;
+package io.github.anjoismysign.blms;
 
 import org.bukkit.Material;
 import org.bukkit.attribute.Attribute;
@@ -9,7 +9,7 @@ import org.bukkit.inventory.ItemStack;
 
 import javax.annotation.Nonnull;
 
-public class R_1_20_5 implements Breaking{
+public class R_1_20_5 implements Breaking {
     private static R_1_20_5 instance;
 
     public static R_1_20_5 getInstance() {

@@ -1,4 +1,4 @@
-package us.mytheria.blbi;
+package io.github.anjoismysign.blms;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
